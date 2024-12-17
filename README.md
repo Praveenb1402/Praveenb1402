@@ -11,8 +11,8 @@ Projects
 🚧 Always open to new project ideas and collaborations.
 
 Skills
-💻 Proficient in Java and Python.
-📱 Developing applications with Flutter, Android Studio,tkinter(Python).
+💻 Proficient in Java, XML and Python.
+📱 Developing applications with Flutter, Android Studio, tkinter(Python).
 
 Get in Touch
 📧 You can reach me via email at praveenb1402@gmail.com.
