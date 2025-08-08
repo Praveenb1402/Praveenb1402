@@ -1,29 +1,33 @@
-Welcome to my GitHub Profile! 👋
-Hi there, I'm Praveen B 👨‍💻
+# 👋 Welcome to My GitHub Profile  
 
-About Me
-👨‍💼 I'm passionate about building applications and collab.
-🚀 Currently working on an exciting Flutter app soon to be launched on the Play Store.
-🌱 I have knowledge in Java, Python, and a knack for Flutter development.
+## Hi, I'm **Praveen B** 👨‍💻  
 
-Projects
-📱 Currently focused on developing a Flutter app for Android users.
-🚧 Always open to new project ideas and collaborations.
+### 🚀 About Me  
+- 👨‍💼 Passionate about building impactful applications and collaborating on innovative projects.  
+- 📱 Currently developing an exciting **Flutter app** soon to be launched on the **Google Play Store**.  
+- 🌱 Skilled in **Java**, **Python**, and an expert in **Flutter development**.  
+- 💡 Always exploring new ideas, tech stacks, and creative solutions.  
 
-Skills
-💻 Proficient in Java, XML and Python.
-📱 Developing applications with Flutter, Android Studio, tkinter(Python).
+---
 
-Get in Touch
-📧 You can reach me via email at praveenb1402@gmail.com.
-💬 Open to discussions about projects, tech, and anything interesting!
+### 🛠 Skills & Technologies  
+- 💻 **Languages:** Java, Python, Dart, XML  
+- 📱 **Frameworks & Tools:** Flutter, Android Studio, Tkinter (Python), Firebase, REST APIs  
+- 🎨 **Other Skills:** UI/UX design, App Deployment, Problem Solving  
 
-Let's Connect!
-👥 Feel free to explore my GitHub repositories.
-🌐 Check out my website (coming soon).
-Thanks for stopping by! 🚀
+---
 
-<!---
-Praveenb1402/Praveenb1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📂 Featured Projects  
+- **Dual-Stage Plant Disease Detection App** – TensorFlow Lite–based app to identify plant diseases with cure suggestions.  
+- **Doctor–Patient Appointment App** – Online appointment booking,  notifications, and emergency services.  
+- **Interactive 2D Puzzle Game Website** – Machine learning–driven infinite puzzle levels with rewards and hints.  
+
+---
+
+### 📬 Get in Touch  
+- 📧 Email: **praveenb1402@gmail.com**  
+- 💬 Open to discussions on projects, tech, or any interesting ideas!  
+- 🌐 Personal Website: https://praveenb1402.github.io/Praveen-Portfolio/
+---
+
+✨ *Thanks for stopping by! Feel free to explore my repositories and connect with me.* 🚀 
